@@ -8,7 +8,7 @@
       1.リモートリポジトリの状態をローカルリポジトリのmasterブランチに取り入れ、最新の状態にする
     </h3>
     <ol>
-      <li>git chekcout master</li>
+      <li>git checkout master</li>
       <li>git fetch</li>
       <li>git merge origin/master</li>
     </ol>
